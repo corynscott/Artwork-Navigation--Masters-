@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "imagesHandler.py", line 7, in <module>
+    from util import dirm
+ImportError: No module named util
